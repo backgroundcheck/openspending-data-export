@@ -17,7 +17,7 @@
     * semi-governmental body (e.g. QUANGOs, PPPs, IGOs, public schools etc.)
     * not-for-profit organisations
     * for-profit companies
-* Source 
+* PUblisher 
     * Title
     * License (official works, public domain, openly licensed, copyright pending)
     * Informally disclosed (y/n)
