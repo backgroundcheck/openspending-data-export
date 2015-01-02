@@ -1,5 +1,17 @@
 
 
+## Better ways to run the modelling
+
+1. Select all monetary facets
+2. Select all timestamps in the dataset
+3. How is data classified in this dataset?
+    - Functional
+    - Economic
+    - Programmes/Products
+    - Institutional (e.g. by Department)
+    - 
+
+
 ## Dataset-level metadata
 
 * Country
