@@ -46,6 +46,7 @@ class Measure(Variable):
 
 
 class Level(object):
+    # TODO: is this a category?
 
     def __init__(self):
         self.id = None
@@ -64,3 +65,9 @@ class Dimension(Variable):
     pass
 
 
+class FunctionalDimension(Dimension):
+    pass
+
+
+class EconomicDimension(Dimension):
+    pass
